@@ -132,7 +132,7 @@ shelter at all, for this list (still recorded, not silently dropped).
   — it is not a correction to republish.
 
 ## Suggested next step (needs Keith's accept — nothing sent yet)
-Send only the headline findings to PA 211 East as suggested corrections,
+Send only the headline findings to statewide PA 211 as suggested corrections,
 using the same email format as the food pantry audit (corrections inline,
 repo kept for the record), with the Turning Point item framed as:
 "please remove any street address for this organisation from public

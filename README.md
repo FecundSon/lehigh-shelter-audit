@@ -1,7 +1,7 @@
 # Lehigh County, PA — Shelter Listing Audit
 
-**Checked: 2026-10-24. Status: published here first for PA 211 East and the
-shelters to respond to. Nothing in this audit has been sent to PA 211 East
+**Checked: 2026-10-24. Status: published here first for statewide PA 211 and the
+shelters to respond to. Nothing in this audit has been sent to statewide PA 211
 or any shelter as a direct message.**
 
 ## What this is
@@ -75,7 +75,7 @@ as a correction.
   dates above are for the season starting November 15, 2026, as stated
   on the YMCA's own current page.
 - This audit was prepared with AI assistance. Corrections, challenges,
-  and updates from PA 211 East or the shelters themselves are welcome —
+  and updates from statewide PA 211 or the shelters themselves are welcome —
   that is the point of publishing it here first.
 
 ## Files
@@ -85,6 +85,6 @@ as a correction.
   against, including the questions that were open before checking.
 
 ## Next step
-PA 211 East and the shelters are invited to confirm or correct the
+statewide PA 211 and the shelters are invited to confirm or correct the
 headline items above. The UNVERIFIED items in the full report should be
 confirmed directly with the shelters, not published from this audit.
